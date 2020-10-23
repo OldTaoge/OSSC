@@ -8,8 +8,8 @@ Edit client's files and control services in one place
 
 ### Features Points
 
-- [ ] Server
-- [ ] Client
+- [ ] [Server](https://github.com/OldTaoge/OSSC-Server)
+- [ ] [Client](https://github.com/OldTaoge/OSSC-Client)
 
 ### Project Language
 
